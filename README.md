@@ -1,23 +1,28 @@
-# Getting Started with Create React App
+# Todo App
+## Deployed Link=> https://64a91eff9a139358d5419d1c--dulcet-licorice-bcbe27.netlify.app/
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
 
-In the project directory, you can run:
+### About
+The main purpose of a todo app is to assist users in managing their tasks and maintaining productivity. It allows users to create lists or categories, add tasks or items to those lists, set deadlines, assign priorities, and mark tasks as completed once finished.
 
-### `npm start`
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
 
-### `npm test`
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+### `Tech Stack`
+1. React JS
+2. Redux
+3. Chakra UI
+
+
+### `Working Features`
+1. Add
+2. Edit
+3. Delete
+4. Count the Items
+5. Mark the Todos
+
 
 ### `npm run build`
 
@@ -29,42 +34,12 @@ Your app is ready to be deployed!
 
 See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-### `npm run eject`
+### `ScreenShots`
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+![todoapp](https://github.com/preetuuppp/TodoAppWithReactRedux/assets/112836053/2ba3c5a4-6b3e-471a-bedc-d144f7829ed8)  
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
 
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+ ![todo2](https://github.com/preetuuppp/TodoAppWithReactRedux/assets/112836053/ee12fc72-4a9c-4813-a910-051b528a3c99)
+ ![todo1](https://github.com/preetuuppp/TodoAppWithReactRedux/assets/112836053/da2d4209-9117-4329-9275-6d8a0a6bfe67)
